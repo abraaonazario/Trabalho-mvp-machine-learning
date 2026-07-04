@@ -1,6 +1,6 @@
 # Minimum Viable Product (MVP) - Machine Learning & Analytics
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Mp3J3ZzOpHc88AxOXH5UTAVWuJ35DXUS?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/abraaonazario/rabalho-mvp-machine-learning/blob/main/MVP_CoberturaFlorestal_Colab.ipynb)
 
 **Projeto: Classificação Multiclasse de Cobertura Florestal utilizando Variáveis Cartográficas e Ambientais**
 
